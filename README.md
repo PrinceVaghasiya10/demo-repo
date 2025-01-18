@@ -1,3 +1,3 @@
 # demo-repo
-My first Git Repository
-Autkor - Prince Vaghasiya
+My first Git Repository.
+Author - Prince Vaghasiya
